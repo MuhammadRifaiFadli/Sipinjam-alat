@@ -1,9 +1,3 @@
-# Sistem Peminjaman Barang
-
-## Deskripsi
-
-Sistem Peminjaman Barang ini merupakan aplikasi berbasis web yang digunakan untuk mengelola peminjaman dan pengembalian barang dengan fitur utama pengaturan lokasi penyimpanan barang dan riwayat peminjaman. Aplikasi ini memudahkan pengguna dalam melacak barang yang dipinjam serta mengelola tempat penyimpanannya secara efisien.
-=======
 # Sistem Peminjaman Barang dan alat
 
 ## Deskripsi
