@@ -10,8 +10,6 @@ Sistem Peminjaman Barang ini merupakan aplikasi berbasis web yang digunakan untu
 ## Deskripsi
 
 Sipinjam alat dan barang ini merupakan aplikasi berbasis web yang digunakan untuk mengelola peminjaman dan pengembalian barang dengan fitur utama pengaturan lokasi penyimpanan barang dan riwayat peminjaman. Aplikasi ini memudahkan pengguna dalam melacak barang yang dipinjam serta mengelola tempat penyimpanannya secara efisien.
->>>>>>> d3657ea (revisi)
-
 ## Fitur Utama
 
 - **Manajemen Tempat/Lokasi Barang**: Admin dapat mengatur lokasi penyimpanan barang agar mudah ditemukan.
@@ -33,4 +31,3 @@ Sipinjam alat dan barang ini merupakan aplikasi berbasis web yang digunakan untu
 ![Homepage](screenshot/user.png)
 ![login](screenshot/login.png)
 ![Dashboard](screenshot/dashboard.png)
->>>>>>> d3657ea (revisi)
