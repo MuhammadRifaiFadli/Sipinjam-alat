@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistem Peminjaman Barang
 
 ## Deskripsi
@@ -26,7 +25,6 @@ Sipinjam alat dan barang ini merupakan aplikasi berbasis web yang digunakan untu
 - DataTables JQuery
 
 ## Gambar
-<<<<<<< HEAD
 =======
 ![Homepage](screenshot/user.png)
 ![login](screenshot/login.png)
